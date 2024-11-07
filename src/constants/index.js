@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     role: "IT Intern",
     company: "ONGC",
     description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Php", "Python", "Flask", "mongoDB"],
+    technologies: ["Php", "Python", "Flask", "SQL"],
   },
 ];
 
@@ -26,18 +26,18 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "Chat-bot-application",
     image: project2,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["Php", "Python", "Flask", "SQL"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["TailwindCSS", "React", "JavaScript"],
   },
   {
     title: "Blogging Platform",
